@@ -1,4 +1,4 @@
-slcpy.com
+slcpy.com - An Amazing Project
 =========
 
 Official Repo of SLCPython's website
